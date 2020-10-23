@@ -1,6 +1,6 @@
 # SOW - Wordpress Theme
 
-##Version - 1.0
+<b>Version -</b> 1.0 <br>
 ##Author - SOW Team
 ##Type - One Page Corporate
 
