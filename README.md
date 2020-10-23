@@ -22,7 +22,7 @@ SOW Wordpress Theme is made by SOW Team for Creative Developers out their.
   
   ![Image of Map](https://i.imgur.com/Lms1p1W.png)
 
-More pages examples cooming soon
+More pages cooming soon
 
 
 ## Credits
