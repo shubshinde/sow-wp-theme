@@ -1,0 +1,1 @@
+# sow-wordpress-theme
