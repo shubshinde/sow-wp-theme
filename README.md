@@ -1,8 +1,9 @@
 # SOW - Wordpress Theme
 
 <b>Version -</b> 1.0 <br>
-##Author - SOW Team
-##Type - One Page Corporate
+<b>Author -</b> SOW Team <br>
+<b>Type -</b> One Page Corporate <br>
+<b>Price  -</b> Free<br>
 
 SOW Wordpress Theme is made by SOW Team for Creative Developers out their.
 
