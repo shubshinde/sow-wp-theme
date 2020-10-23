@@ -1,15 +1,15 @@
 # SOW - Wordpress Theme
-SOW Wordpress Theme is made by SOW Team for Creative Developers out their.
 
+SOW Wordpress Theme is made by SOW Team for Creative Developers out their.
 
 
 ## Features
 
-> One Page
-> Bootstrap 4 
-> Portfolio
-> Animate.js
-> Free to Use
+> One Page ,
+> Bootstrap 4 ,
+> Portfolio ,
+> Animate.js ,
+> Free to Use ,
 > Highly Customisable 
 
 ##  Screenshots :
